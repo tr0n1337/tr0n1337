@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Thiago Fernandes</h1>
 <p align="center">
+<a href="https://thiagoportfolio.vercel.app/"><img
+src="https://img.shields.io/badge/portf%C3%B3lio-323330?style=for-the-badge&logo=git&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/thiago-souza-fernandes/"><img
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.instagram.com/thiago.souzaz/"><img
