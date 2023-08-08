@@ -21,11 +21,11 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"></img></a>
 <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"></img></a>
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python logo"></img></a>
+<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
 </p>
 
 <h2 align="center">Learning:</h2>
 <p align="center">
-<a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
 <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img></a>
 </p>
 
